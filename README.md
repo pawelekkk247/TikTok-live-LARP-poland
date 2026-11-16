@@ -1,3 +1,3 @@
 versje
 tworzę TikTok live LARP
-github.io/TikTok-live-LARP-poland/TikTok-live-LARP-0.17.html
+https://github.com/pawelekkk247/TikTok-live-LARP-poland
